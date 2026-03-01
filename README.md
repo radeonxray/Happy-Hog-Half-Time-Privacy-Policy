@@ -2,58 +2,73 @@
 
 # Privatlivspolitik for “Happy Hog Half Time”
 
-Senest opdateret: [indsæt dato]
+Senest opdateret: 28 Februar 2026
+<br/>
+<br/>
 Denne privatlivspolitik beskriver, hvordan Happy Hog Half Time (“Appen”) behandler personoplysninger.
+<br/>
 Appen er udviklet og ejet af
-[Dit fulde navn]
-[E-mailadresse]
+<br/>
+Christian Engelberth Olsen
+<br/>
+happyhoghalftime@gmail.com
+<br/>
 (“Udvikleren”)
-1. Overordnet
+
+# 1. Overordnet
 Appen kræver ikke brugeroprettelse og indeholder ikke loginfunktion.
 Appen er designet til at indsamle og behandle så få personoplysninger som muligt.
-2. Hvilke oplysninger behandles
+
+# 2. Hvilke oplysninger behandles
 Da Appen ikke har brugerprofiler eller login, indsamles der ikke navn, e-mailadresse, telefonnummer eller andre direkte identificerbare oplysninger via Appen.
 Følgende oplysninger kan dog behandles:
-a) Push-notifikationer (Firebase)
+
+### a) Push-notifikationer (Firebase)
 Appen anvender Google Firebase Cloud Messaging (FCM) til udsendelse af push-notifikationer.
 Hvis brugeren giver tilladelse til notifikationer, behandles:
 Enhedens push-token (genereret af Firebase)
 Oplysning om, at notifikationer er aktiveret
 Et push-token er en teknisk identifikator knyttet til en enhed og bruges udelukkende til at sende notifikationer.
 Firebase kan i den forbindelse behandle tekniske enhedsoplysninger i overensstemmelse med Googles egen privatlivspolitik.
-b) Tekniske oplysninger
+
+### b) Tekniske oplysninger
 Appen kan automatisk registrere anonyme tekniske oplysninger såsom:
 Enhedstype
 Styresystemversion
 App-version
 Tekniske fejlrapporter (crash logs)
 Disse oplysninger anvendes alene til drift, stabilitet og fejlsøgning.
-3. Formål med behandlingen
+
+# 3. Formål med behandlingen
 Oplysninger behandles udelukkende for at:
 Muliggøre udsendelse af push-notifikationer
 Sikre Appens funktionalitet
 Forbedre stabilitet og brugeroplevelse
 Foretage teknisk fejlsøgning
 Oplysninger anvendes ikke til markedsføring eller profilering.
-4. Retsgrundlag
+
+# 4. Retsgrundlag
 Behandlingen sker på baggrund af:
 Brugerens samtykke (ved aktivering af push-notifikationer)
 Udviklerens legitime interesse i at sikre Appens funktionalitet og stabilitet
 Push-notifikationer kan til enhver tid deaktiveres via enhedens indstillinger.
-5. Videregivelse og databehandlere
+
+# 5. Videregivelse og databehandlere
 Appen anvender følgende tredjepart:
 Google Firebase (Google LLC)
 Bruges til push-notifikationer (Firebase Cloud Messaging).
 Google kan behandle tekniske oplysninger i forbindelse med levering af tjenesten.
 Behandlingen sker i overensstemmelse med Googles privatlivspolitik.
 Udvikleren sælger ikke personoplysninger og videregiver ikke oplysninger til Den Glade Gris, REKOM eller andre tredjeparter.
-6. Opbevaring
+
+# 6. Opbevaring
 Da Appen ikke har brugerprofiler, opbevares der ikke personoplysninger om identificerbare personer.
 Push-tokens opbevares kun så længe, det er nødvendigt for at sende notifikationer.
 Brugeren kan til enhver tid:
 Deaktivere push-notifikationer
 Afinstallere Appen
-7. Brugerens rettigheder
+
+# 7. Brugerens rettigheder
 Efter databeskyttelsesforordningen (GDPR) har brugeren ret til:
 Indsigt
 Berigtigelse
@@ -63,16 +78,21 @@ Indsigelse
 At klage til Datatilsynet
 Da Appen ikke registrerer identificerbare brugeroplysninger, kan visse rettigheder i praksis være begrænsede.
 Henvendelse kan ske via kontaktoplysningerne nedenfor.
-8. Datasikkerhed
+
+# 8. Datasikkerhed
 Udvikleren træffer rimelige tekniske foranstaltninger for at beskytte Appens data mod uautoriseret adgang og misbrug.
 Dog kan fuldstændig sikkerhed ved internetbaseret kommunikation ikke garanteres.
-9. Ændringer
+
+# 9. Ændringer
 Privatlivspolitikken kan opdateres løbende.
 Den nyeste version vil altid være tilgængelig i Appen.
+<br/>
 Kontakt
 Ved spørgsmål om databeskyttelse kan du kontakte:
-[Dit navn]
-[E-mailadresse]
+<br/>
+Christian Engelberth Olsen
+<br/>
+happyhoghalftime@gmail.com
 
 -------
 
